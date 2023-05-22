@@ -1,0 +1,20 @@
+C:\Users\User Account\source\repos\Maze Game\Maze Game\bin\Debug\Maze Game.exe.config
+C:\Users\User Account\source\repos\Maze Game\Maze Game\bin\Debug\Maze Game.exe
+C:\Users\User Account\source\repos\Maze Game\Maze Game\bin\Debug\Maze Game.pdb
+C:\Users\User Account\source\repos\Maze Game\Maze Game\obj\Debug\Maze Game.csprojAssemblyReference.cache
+C:\Users\User Account\source\repos\Maze Game\Maze Game\obj\Debug\Maze_Game.FormMaze.resources
+C:\Users\User Account\source\repos\Maze Game\Maze Game\obj\Debug\Maze_Game.Properties.Resources.resources
+C:\Users\User Account\source\repos\Maze Game\Maze Game\obj\Debug\Maze Game.csproj.GenerateResource.cache
+C:\Users\User Account\source\repos\Maze Game\Maze Game\obj\Debug\Maze Game.csproj.CoreCompileInputs.cache
+C:\Users\User Account\source\repos\Maze Game\Maze Game\obj\Debug\Maze Game.exe
+C:\Users\User Account\source\repos\Maze Game\Maze Game\obj\Debug\Maze Game.pdb
+C:\Users\User Account\Desktop\Office\My C# Apps\Maze Game\Maze Game\bin\Debug\Maze Game.exe.config
+C:\Users\User Account\Desktop\Office\My C# Apps\Maze Game\Maze Game\bin\Debug\Maze Game.exe
+C:\Users\User Account\Desktop\Office\My C# Apps\Maze Game\Maze Game\bin\Debug\Maze Game.pdb
+C:\Users\User Account\Desktop\Office\My C# Apps\Maze Game\Maze Game\obj\Debug\Maze Game.csprojAssemblyReference.cache
+C:\Users\User Account\Desktop\Office\My C# Apps\Maze Game\Maze Game\obj\Debug\Maze_Game.FormMaze.resources
+C:\Users\User Account\Desktop\Office\My C# Apps\Maze Game\Maze Game\obj\Debug\Maze_Game.Properties.Resources.resources
+C:\Users\User Account\Desktop\Office\My C# Apps\Maze Game\Maze Game\obj\Debug\Maze Game.csproj.GenerateResource.cache
+C:\Users\User Account\Desktop\Office\My C# Apps\Maze Game\Maze Game\obj\Debug\Maze Game.csproj.CoreCompileInputs.cache
+C:\Users\User Account\Desktop\Office\My C# Apps\Maze Game\Maze Game\obj\Debug\Maze Game.exe
+C:\Users\User Account\Desktop\Office\My C# Apps\Maze Game\Maze Game\obj\Debug\Maze Game.pdb
